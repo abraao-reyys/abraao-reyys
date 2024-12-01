@@ -13,7 +13,7 @@
  
 <br>
  
-### Para ver mais sobre meus projetos, acesse minhas redes sociais!
+### Para saber mais sobre minha história, acesse minhas redes sociais!
  
 <div> 
   <a href="https://instagram.com/abraao_reyys" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
