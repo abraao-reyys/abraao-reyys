@@ -1,4 +1,4 @@
-## Bem-vindo(a) ao perfil do Abraão Reis 😁
+## Seja bem-vindo ao meu perfil!
 
  <div>
    <a href="https://github.com/abraao-reyys">
