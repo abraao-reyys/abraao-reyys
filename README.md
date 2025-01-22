@@ -22,7 +22,7 @@ Aqui estão as principais tecnologias de meu uso/conhecimento:
   <img align="center" alt="Logo do React" height="40" width="40" src="https://cdn.iconscout.com/icon/free/png-512/free-react-logo-icon-download-in-svg-png-gif-file-formats--technology-social-media-vol-5-pack-logos-icons-2945110.png?f=webp&w=256">
 </div>
 
-Domínio < - - - - - - - - - - - - - - - - - - - - Aprendizado
+Domínio < - - - - - - - - - - - - - - - - - - - - - - - - Aprendizado
 
 ## Experiência
 
