@@ -30,6 +30,8 @@ Domínio < - - - - - - - - - - - - - - - - - - - - - - - - Aprendizado
 
 No momento, estou em busca da minha **primeira oportunidade**. <br>
 Venho trabalhando muito nisso ultimamente e nada melhor do que bons projetos para encontrá-las.
+
+Confira meu [portfólio profissional](https://portfolio-profissional-2.netlify.app/)!
  
 ## Vamos nos conectar?
  
