@@ -14,8 +14,8 @@ Aqui estão as principais tecnologias de meu uso/conhecimento:
   <img align="center" alt="Logo do JavaScript" height="40" width="40" src="https://img.icons8.com/?size=100&id=108784&format=png&color=000000">
   <img align="center" alt="Logo do Git" height="40" width="40" src="https://img.icons8.com/?size=100&id=20906&format=png&color=000000">
   <img align="center" alt="Logo do Node" height="40" width="40" src="https://img.icons8.com/?size=100&id=hsPbhkOH4FMe&format=png&color=000000">
-  <img align="center" alt="Logo do Vue" height="40" width="40" src="https://img.icons8.com/?size=100&id=rY6agKizO9eb&format=png&color=000000">
   <img align="center" alt="Logo do React" height="40" width="40" src="https://cdn.iconscout.com/icon/free/png-512/free-react-logo-icon-download-in-svg-png-gif-file-formats--technology-social-media-vol-5-pack-logos-icons-2945110.png?f=webp&w=256">
+  <img align="center" alt="Logo do Vue" height="40" width="40" src="https://img.icons8.com/?size=100&id=rY6agKizO9eb&format=png&color=000000">
   <img align="center" alt="Logo do Nuxt" height="40" width="40" src="https://nuxt.com/assets/design-kit/icon-green.svg">
   <img align="center" alt="Logo do Figma" height="40" width="40" src="https://img.icons8.com/?size=100&id=zfHRZ6i1Wg0U&format=png&color=000000">
   <img align="center" alt="Logo do Python" height="40" width="40" src="https://img.icons8.com/?size=100&id=l75OEUJkPAk4&format=png&color=000000">
